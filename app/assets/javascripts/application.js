@@ -13,4 +13,6 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+//= require web_socket
+//= require websocket_rails/main
 //= require_tree .
